@@ -1,2 +1,1 @@
-# kimyeongjin
-portfolio 
+# 5th-Static-Competition
